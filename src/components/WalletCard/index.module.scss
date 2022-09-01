@@ -1,0 +1,16 @@
+.ionCard {
+  border-radius: 15px;
+  margin: 1rem;
+  .ion-card-content {
+    background-image: url("./../../assets/img/wallet.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 15rem;
+    color: rgb(234, 234, 234);
+    font-weight: bold;
+  }
+  .amount {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,12 @@
+@import "./../../theme/colors.scss";
+
+.headerTitle {
+  position: relative;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.menuIcon {
+  font-size: xx-large !important;
+  color: $primary;
+}

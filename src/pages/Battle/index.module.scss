@@ -1,0 +1,16 @@
+.cancel {
+  ion-label {
+    svg {
+      font-size: xx-large;
+      vertical-align: middle;
+      color: red;
+      border-radius: 25px;
+    }
+
+    span {
+      font-weight: bold;
+      color: gray;
+      font-size: large;
+    }
+  }
+}

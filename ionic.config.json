@@ -1,0 +1,7 @@
+{
+  "name": "Ludo 11",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

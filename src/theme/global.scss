@@ -1,0 +1,21 @@
+@import "./colors.scss";
+
+.ion-skeleton-circle {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50px;
+}
+
+.primary {
+  background-color: $primary;
+}
+
+.color-primary {
+  color: $primary;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

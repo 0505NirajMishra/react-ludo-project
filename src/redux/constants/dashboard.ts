@@ -1,0 +1,4 @@
+export const START_COUNT_API = "START_COUNT_API";
+export const SUCCESS_COUNT_API = "SUCCESS_COUNT_API";
+export const ERROR_COUNT_API = "ERROR_COUNT_API";
+

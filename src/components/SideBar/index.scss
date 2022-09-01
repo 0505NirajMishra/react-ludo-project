@@ -1,0 +1,30 @@
+@import "./../../theme/colors.scss";
+
+.menu-header {
+  text-align: center;
+  color: white;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.button-list {
+  display: grid;
+  justify-content: center;
+}
+
+.profileList {
+  ion-label {
+    font-weight: bold;
+    color: gray !important;
+  }
+  svg {
+    background-color: gray !important;
+    color: white !important;
+    vertical-align: middle;
+    border-radius: 50%;
+    font-size: xx-large;
+    padding: 2px;
+  }
+}

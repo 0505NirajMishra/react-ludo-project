@@ -1,0 +1,15 @@
+@import "./../../theme/colors.scss";
+
+.amountCard {
+  color: $primary;
+  font-weight: bold;
+  border: 1px solid;
+  width: 40%;
+  text-align: center;
+  padding: 0.6rem;
+  border-radius: 25px;
+  span {
+    font-size: x-large;
+  }
+  margin: 1rem;
+}
